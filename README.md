@@ -4,7 +4,7 @@ Data Science Pong Model
 ## Model
 The model I chose was linear regression. This was because it was learning and predicting the y value 
 
-<img src=""
+<img src="https://github.com/rengel44/Pong-Model/blob/main/pong.gif">
 
 ## Rounds
 Round 1 over. 
